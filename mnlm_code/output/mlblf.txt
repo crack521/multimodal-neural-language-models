@@ -1,0 +1,35 @@
+TRAINING:
+
+============================== Training phase 1 ==============================
+epoch 0... nlogprob:  2.7754, 2.8075 (532.314 sec)
+epoch 1... nlogprob:  2.5209, 2.5955 (513.821 sec)
+epoch 2... nlogprob:  2.3709, 2.4715 (525.327 sec)
+epoch 3... nlogprob:  2.2648, 2.3987 (535.004 sec)
+epoch 4... nlogprob:  2.1830, 2.3414 (524.772 sec)
+epoch 5... nlogprob:  2.1230, 2.3194 (535.810 sec)
+epoch 6... nlogprob:  2.0781, 2.3017 (533.634 sec)
+epoch 7... nlogprob:  2.0121, 2.2601 (536.419 sec)
+epoch 8... nlogprob:  1.9685, 2.2351 (524.698 sec)
+epoch 9... nlogprob:  1.9268, 2.2338 (535.200 sec)
+epoch 10... nlogprob:  1.8844, 2.2188 (535.441 sec)
+epoch 11... nlogprob:  1.8453, 2.2135 (535.436 sec)
+epoch 12... nlogprob:  1.8144, 2.2193 (519.115 sec)
+epoch 13... nlogprob:  1.7741, 2.2139 (520.705 sec)
+epoch 14... nlogprob:  1.7338, 2.2224 (536.321 sec)
+epoch 15... nlogprob:  1.7161, 2.2276 (521.460 sec)
+epoch 16... nlogprob:  1.6874, 2.2315 (539.392 sec)
+============================== Training phase 2 ==============================
+epoch 17... nlogprob:  1.8248, 2.0925 (679.834 sec)
+epoch 18... nlogprob:  1.8045, 2.0216 (676.888 sec)
+epoch 19... nlogprob:  1.7568, 1.9646 (646.631 sec)
+epoch 20... nlogprob:  1.7404, 1.9155 (658.476 sec)
+epoch 21... nlogprob:  1.7138, 1.8775 (661.205 sec)
+epoch 22... nlogprob:  1.6992, 1.8522 (677.758 sec)
+epoch 23... nlogprob:  1.6643, 1.8085 (683.684 sec)
+
+TEST PERPLEXITY: 9.89949930326
+
+BLEU-1: 0.387148202494
+BLEU-2: 0.209081708733
+BLEU-3: 0.115021362301
+
