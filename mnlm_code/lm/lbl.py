@@ -1,4 +1,4 @@
-# numpy class for log-bilinear language model (Minh)
+# numpy class for log-bilinear language model (Mnih)
 
 import sys
 import numpy as np
